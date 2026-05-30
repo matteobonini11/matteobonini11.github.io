@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Talks"
+    url: /talks/
+  - title: "Events"
+    url: /events/
+  - title: "CV"
+    url: /assets/CV_Matteo_Bonini.pdf
